@@ -80,11 +80,11 @@ a:hover {
 
     max-width: 900px;
 
-    padding: 30px;
+    padding: 40px;
 
-    background: rgba(0,60,100,0.35);
+    background: rgba(0,60,100,0.45);
 
-    border-radius: 15px;
+    border-radius: 20px;
 
 }
 
@@ -92,11 +92,11 @@ a:hover {
 
 .hero h1 {
 
-    font-size: 56px;
+    font-size: 64px;
 
     margin: 0;
 
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 
 }
 
@@ -116,7 +116,9 @@ a:hover {
 
 .catchphrase {
 
-    font-size: 28px;
+    font-size: 32px;
+
+   font-weight: bold;
 
     margin-top: 40px;
 
