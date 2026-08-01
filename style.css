@@ -61,7 +61,6 @@ a:hover {
     background-size: cover;
 
     background-position: center;
-}
    
     display: flex;
 
@@ -81,7 +80,11 @@ a:hover {
 
     max-width: 900px;
 
-    padding: 20px;
+    padding: 30px;
+
+    background: rgba(0,60,100,0.35);
+
+    border-radius: 15px;
 
 }
 
